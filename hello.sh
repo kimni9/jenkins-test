@@ -1,1 +1,1 @@
-    echo "Hello from a script that lives in GitHub!"
+    echo "THE AUTOMATION IS WORKING! Hello from GitHub!"
